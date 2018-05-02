@@ -1,4 +1,4 @@
-// Maths class for all operations 
+// Maths class for all operations for Calculator main class
 
 public class Maths {
 	public double add (double num1, double num2) 
